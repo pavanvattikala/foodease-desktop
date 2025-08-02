@@ -1,0 +1,15 @@
+# foodease-desktop/.gitignore
+/node_modules/
+/release-builds/
+/php/
+
+# Ignore build artifacts
+/dist/
+/build/
+
+
+# Ignore Environment files
+/.env
+/.env.local
+/.env.*.local
+
