@@ -18,7 +18,7 @@ Follow these steps precisely to get the development environment running.
 You **must** clone the repository with the `--recurse-submodules` flag to correctly pull in the `www` directory.
 
 ```bash
-git clone --recurse-submodules [https://github.com/your-username/foodease-desktop.git](https://github.com/your-username/foodease-desktop.git)
+git clone --recurse-submodules https://github.com/pavanvattikala/foodease-desktop.git
 cd foodease-desktop
 ```
 
