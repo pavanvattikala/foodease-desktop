@@ -26,7 +26,7 @@ if (process.platform === "win32") {
     php: `${__dirname}/php/php.exe`,
     port: 5555,
     host: host,
-    directory: path.join(__dirname, "www", "public"),
+    directory: path.join(__dirname, "FoodEase", "public"),
     directives: {
       display_errors: 1,
       expose_php: 1,
