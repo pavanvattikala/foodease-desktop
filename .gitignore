@@ -1,7 +1,6 @@
 # foodease-desktop/.gitignore
 /node_modules/
 /release-builds/
-/php/
 
 # Ignore build artifacts
 /dist/
@@ -13,3 +12,8 @@
 /.env.local
 /.env.*.local
 
+
+# Ignore All files and subdirectories in the php folder
+/php/**
+!php/.gitkeep
+php.zip
